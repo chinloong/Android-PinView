@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    <Button
+            android:id="@+id/buttonEnterPin"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Enter Pin"
+            android:textSize="25sp"
+            android:textColor="#ffffff"
+            android:padding="6dip"
+            android:layout_margin="20dip"
+            android:layout_centerVertical="true"
+     >
+     </Button>
+    
+    
+</RelativeLayout>
