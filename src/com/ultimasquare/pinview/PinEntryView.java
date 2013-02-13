@@ -36,7 +36,6 @@ public class PinEntryView extends Activity {
 
 	String userEntered;
 	String userPin="8888";
-	String[] accounts = { "chinloong.yong@gmail.com"};
 	
 	final int PIN_LENGTH = 4;
 	boolean keyPadLockedFlag = false;
